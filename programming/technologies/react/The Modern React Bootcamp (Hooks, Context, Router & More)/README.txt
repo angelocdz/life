@@ -1,6 +1,8 @@
 start  2019 aug 26 14:23 00 00 
 finish 2019 aug 00 00:00 00 00 
 
+Colt Steele
+
 1. A Taste of React
  d 1. Welcome to the Course!                    2019 aug 26 14:37 01 01
  d 2. Intro to React                            2019 aug 26 14:41 02 02 
