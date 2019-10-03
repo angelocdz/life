@@ -1,0 +1,1 @@
+https://amp.dev/documentation/guides-and-tutorials/start/create/basic_markup/?format=websites
