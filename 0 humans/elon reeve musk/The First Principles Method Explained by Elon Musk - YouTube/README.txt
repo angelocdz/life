@@ -35,8 +35,8 @@ battery packs are really expensive and that's just
 the way they'll always be because that's the way 
 they've been in the past
 
-you're like well no that's that's pretty
-dumb you know because 
+you're like well no that's that's pretty dumb you 
+know because 
 
 if if you apply that reasoning to anything new 
 that then you wouldn't be able to ever get to that
